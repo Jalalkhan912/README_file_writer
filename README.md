@@ -20,7 +20,7 @@ A lightweight Zapier workflow that captures **two different website form submiss
 
 Then reference it here:
 
-![Zap overview showing Webhooks trigger, split into Paths A/B, each sending Gmail and creating a Google Sheets row.](./image.png)
+![Zap overview showing Webhooks trigger, split into Paths A/B, each sending Gmail and creating a Google Sheets row.](./Lovable_Automation.png)
 
 ---
 
